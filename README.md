@@ -9,4 +9,6 @@ node_modules: <br>
 
 3. 複製或拉取專案： 如果你從版本控制系統（如 Git）中複製或拉取一個包含 package.json 的現有專案，你可以透過執行 npm install 或 yarn install 來安裝專案所需的依賴。這將會建立 node_modules 目錄並下載依賴項。<br>
 
+npm run start:dev
+
 
